@@ -1,4 +1,4 @@
-# Pico 2 Pocket Snake
+# Pico 2 Snake game console
 
 A self-contained C/C++ SDK project for the existing Raspberry Pi Pico 2,
 ST7789 SPI TFT, four tactile switches, and passive piezo. Snake is playable on
